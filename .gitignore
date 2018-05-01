@@ -1,0 +1,8 @@
+x64/*
+.vs/*
+Debug/*
+helloBySearch.sln
+helloBySearch/Debug/*
+helloBySearch/x64/*
+helloBySearch.vcxproj
+helloBySearch.vcxproj.filters
