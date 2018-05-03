@@ -11,7 +11,7 @@ int HelloBySearch::helloBySearch()
 			std::cout << rand;
 			Sleep(10);
 			std::cout << "\b";
-			rand = std::rand() % 126 + '!';
+			rand = std::rand() % 90 + '!';
 		}
 		std::cout << rand;
 	}
